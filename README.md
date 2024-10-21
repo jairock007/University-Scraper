@@ -1,4 +1,4 @@
-```markdown
+**```markdown
 # UniversityScraper
 
 `UniversityScraper` is a Python script that scrapes course and scholarship information from the University of Oxford's official website. The collected data is then exported to a well-formatted Excel file.
@@ -77,3 +77,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **Author**: Credits the author of the project.
 
 Feel free to customize this README to better suit your project or preferences!
+**
