@@ -18,7 +18,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/universityscraper.git
+   git clone https://github.com/jairock007/universityscraper.git
    cd universityscraper
    ```
 
@@ -60,20 +60,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 [Jitendra Singh][https://github.com/jairock007]
 
-```
-
-### Explanation:
-
-- **Project Title and Description**: The top section describes what the project does.
-- **Features**: Outlines the main functionalities of the scraper.
-- **Requirements**: Lists dependencies required to run the script.
-- **Installation**: Provides step-by-step instructions for setting up the project.
-- **Usage**: Shows how to run the script.
-- **Logging**: Explains how logging is incorporated into the script.
-- **Data Structure**: Describes how data is organized in the exported Excel file.
-- **Contributing**: Invites collaboration from other developers.
-- **License**: Indicates the licensing details.
-- **Author**: Credits the author of the project.
-
-Feel free to customize this README to better suit your project or preferences!
-**
